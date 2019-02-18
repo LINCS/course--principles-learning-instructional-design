@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1222" moduleid="5025" modulename="page" contextid="15038">
+  <page id="1222">
+    <name>Principle 1: Choose Appropriate Level of Difficulty</name>
+    <intro>&lt;p&gt;&lt;i&gt;1) Choose appropriate level of difficulty&lt;/i&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Selection of learning goals, materials, and tasks should be sensitive to what the student has mastered and be appropriately challenging—not too easy or too difficult, but just right. Consider a text used to help adults learn about a medical procedure: If the text is extremely easy and overlaps perfectly with what the learners already know, then it will not stretch their knowledge beyond what they already knew without it. Neither will the adults gain much medical knowledge if the text is too complex and riddled with technical jargon beyond their understanding. Developing readers need to confront challenging texts that engage them with new and meaningful content, but they also need texts that allow them to practice and further develop the skills they have already begun to acquire. (p. 4)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Descriptions of each principle are excerpted from Chapter 2 (pp. 3–11) of &lt;i&gt;Improving Adult Literacy: Supporting Learning and Motivation &lt;/i&gt;(2012). The principles are reprinted with permission from the National Academy of Sciences, Courtesy of the National Academies Press, Washington, DC.&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1432085625</timemodified>
+  </page>
+</activity>

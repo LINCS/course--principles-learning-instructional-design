@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1223" moduleid="5026" modulename="page" contextid="15039">
+  <page id="1223">
+    <name>Principle 2: Present Material in a Clear and Organized Format</name>
+    <intro>&lt;p&gt;Principle 2&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Adults of all ages benefit from a clear and organized presentation that helps them remember new information. It is important to remove any irrelevant information, even if it is interesting, that could compete for the learner’s attention and detract from learning. Visual displays that are hard to read or spoken presentations given in noisy environments can compromise learning because they draw attention away from deeper processing of meaning. Providing structure and organization is important to help learners understand concepts and how they relate to each other. The format used depends on the relationships that will be depicted; outlines can be used to show structural hierarchies, and tables can organize ideas in two or three dimensions, while diagrams can help convey more complex relationships among ideas. Materials and lesson plans also should be organized so that related elements and ideas are presented near each other in space and time. For example, an explanation should be given at the time a concept is depicted rather than many minutes, hours, or days later. In addition, new material should be presented in discrete units so that new learners are not overwhelmed with too much new information at once. (p. 4)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Descriptions of each principle are excerpted from Chapter 2 (pp. 3–11) of &lt;i&gt;Improving Adult Literacy: Supporting Learning and Motivation &lt;/i&gt;(2012). The principles are reprinted with permission from the National Academy of Sciences, Courtesy of the National Academies Press, Washington, DC.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1432085459</timemodified>
+  </page>
+</activity>

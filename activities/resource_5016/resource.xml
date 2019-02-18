@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="141" moduleid="5016" modulename="resource" contextid="15029">
+  <resource id="141">
+    <name>Instructional Design Strategies: Self-Assessment and Note-Taking Chart</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Besides being a self-assessment, the Instructional Design Strategies chart also serves as an electronic note-taking tool that you will return to periodically throughout this course and a document that you can download, save to your computer, and/or print.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 60px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Be sure to read about any principles for which you scored yourself a 1 or a 2 in the self-assessment.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:860;s:11:"popupheight";i:650;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>18</revision>
+    <timemodified>1440438632</timemodified>
+  </resource>
+</activity>

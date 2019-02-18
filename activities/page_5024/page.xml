@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1221" moduleid="5024" modulename="page" contextid="15037">
+  <page id="1221">
+    <name>Highlights of Key Principles of Learning for Instructional Design </name>
+    <intro>&lt;p&gt;Highlights document&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;b&gt;&lt;span style="text-decoration: underline;"&gt;Instructions:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The list below highlights these 14 key principles of learning for instructional design that were noted in the Pre-Course Self-Assessment. For a recap of definitions see &lt;a href="@@PLUGINFILE@@/Descriptions_14Principles.pdf" title="Descriptions of 14 Principles" target="_blank"&gt;Descriptions of 14 Principles.&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;  Be sure to read about any principles for which you scored yourself a 1 or 2 in the self-assessment.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It’s important to keep in mind that the factors interact in complex ways to influence learner motivation. For example, encouraging learners to generate content can help to ensure that materials are at an appropriate level of difficulty. In addition, testing on multiple occasions can offer the opportunity to provide a steady flow of qualitative feedback.&lt;/p&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span style="font-size: small; color: #800000;"&gt;&lt;b&gt;Help learners acquire, retain, and transfer new knowledge and skills&lt;/b&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Choose appropriate level of difficulty.&lt;/li&gt;
+&lt;li&gt;Present material in a clear and organized format.&lt;/li&gt;
+&lt;li&gt;Use multiple and varied examples and formats.&lt;/li&gt;
+&lt;li&gt;Space presentations of new material across time.&lt;/li&gt;
+&lt;li&gt;Test on multiple occasions preferably with spacing.&lt;/li&gt;
+&lt;li&gt;Ground concepts in concrete experiences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #800000;"&gt;&lt;b&gt;Support learners in generating content and reasoning &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Encourage learners to generate content.&lt;/li&gt;
+&lt;li&gt;Encourage learners to generate explanations and resolve contradictions.&lt;/li&gt;
+&lt;li&gt;Encourage learners to construct ideas from multiple points of view and different perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #800000;"&gt;&lt;b&gt;Develop metacognition and self-directed learning&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Structure instruction to develop effective use of complex learning strategies.&lt;/li&gt;
+&lt;li&gt;Combine instruction in complex learning strategies with learning of content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #800000;"&gt;&lt;b&gt;Provide feedback&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Promote learning by offering accurate and timely feedback &lt;/li&gt;
+&lt;li&gt;Promote learning by giving qualitative feedback rather than test scores and flagging errors &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #800000;"&gt;&lt;b&gt;Use adaptive, interactive learning environments&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Provide opportunities to practice and use skills for a purpose.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div&gt;&lt;br clear="all" /&gt;&lt;hr align="left" size="1" width="33%" /&gt;
+&lt;div id="ftn1"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;sup&gt;1&lt;/sup&gt;Descriptions of each principle are taken from Chapter 2 (pp. 3–11) from &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-189%20" title="Improving Adult Literacy" target="_blank"&gt;&lt;i&gt;Improving Adult Literacy: Supporting Learning and Motivation&lt;/i&gt;&lt;/a&gt;. They are reprinted with permission from the National Academy of Sciences, Courtesy of the National Academies Press, Washington, DC. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>20</revision>
+    <timemodified>1440438749</timemodified>
+  </page>
+</activity>

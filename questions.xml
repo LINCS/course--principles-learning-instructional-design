@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="161">
+    <name>Default for Comprehension Check</name>
+    <contextid>15045</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>5032</contextinstanceid>
+    <info>The default category for questions shared in context 'Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150520192804+px8d0v</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="162">
+    <name>Default for PrinciplesLearning_InstructionalDesign</name>
+    <contextid>15022</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>133</contextinstanceid>
+    <info>The default category for questions shared in context 'PrinciplesLearning_InstructionalDesign'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150520192804+RDnRUY</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="985">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p&gt;Which of the following principles will NOT help learners to acquire, retain, and transfer new knowledge and skills? Select one.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150520193359+a5fw08</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123928+5rbB1q</version>
+        <hidden>0</hidden>
+        <timecreated>1432150439</timecreated>
+        <timemodified>1433248767</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2930">
+              <answertext>&lt;nolink&gt;Use multiple and varied examples and formats.&lt;/nolink&gt;
+&lt;p&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2931">
+              <answertext>&lt;nolink&gt;Choose appropriate level of difficulty.&lt;/nolink&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2932">
+              <answertext>&lt;p&gt;&lt;span&gt;Test on multiple occasions, preferably with spacing. &lt;/span&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2933">
+              <answertext>&lt;nolink&gt;Present material in a clear and organized format.&lt;/nolink&gt;
+&lt;p&gt; &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2934">
+              <answertext>&lt;p&gt;Focus on content that has clear right/wrong answers. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2935">
+              <answertext>&lt;p&gt;Space presentations of new materials across time. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="490">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="986">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p&gt;Examples of grounding concepts in concrete experiences include the following (choose all that apply): &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150520193556+j7xm9C</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150602123944+eEkGwx</version>
+        <hidden>0</hidden>
+        <timecreated>1432150556</timecreated>
+        <timemodified>1433248783</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2936">
+              <answertext>&lt;p&gt;Using coins or other manipulatives when learners are developing their numeracy skills &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2937">
+              <answertext>&lt;p&gt;Using a variety of genre styles besides stories to help adult learners practice with other forms of writing &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2938">
+              <answertext>&lt;p&gt;Letting the learner manipulate machine parts when assembling a simple device from written instructions &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2939">
+              <answertext>&lt;p&gt;Using stories about everyday experiences to help the learner understand and recall new information &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="491">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="987">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p&gt;Having students reflect individually on what they learned from each of the lesson activities engages them in what way? Select one:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150520193718+pXiRoP</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150520193718+QvzvHy</version>
+        <hidden>0</hidden>
+        <timecreated>1432150638</timecreated>
+        <timemodified>1432150638</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2940">
+              <answertext>&lt;p&gt;cognitively&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2941">
+              <answertext>&lt;p&gt;affectively&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2942">
+              <answertext>&lt;p&gt;socially&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2943">
+              <answertext>&lt;p&gt;temporarily&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="492">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="988">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p&gt;Which of the following is NOT a principle of instructional design? Select one: &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150520193825+96VybD</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150520195915+BJ4Mhn</version>
+        <hidden>0</hidden>
+        <timecreated>1432150705</timecreated>
+        <timemodified>1432151954</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="2944">
+              <answertext>&lt;p&gt;Encourage learner to construct ideas from multiple points of view and different perspectives.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2945">
+              <answertext>&lt;p&gt;Require full mastery of lesson objectives before moving on.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2946">
+              <answertext>&lt;nolink&gt;Combine instruction in complex learning strategies with learning of content.&lt;/nolink&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2947">
+              <answertext>&lt;nolink&gt;Qualitative feedback is better for learning than test scores and error flagging.&lt;/nolink&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="493">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="989">
+        <parent>0</parent>
+        <name>Question 5</name>
+        <questiontext>&lt;p&gt;Students with strong metacognitive skills are better able to learn independently and to know when they have not learned. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150520193919+PEn8nx</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150520193919+Z71Hgb</version>
+        <hidden>0</hidden>
+        <timecreated>1432150759</timecreated>
+        <timemodified>1432150759</timemodified>
+        <createdby>7244</createdby>
+        <modifiedby>7244</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="2948">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2949">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="114">
+            <trueanswer>2948</trueanswer>
+            <falseanswer>2949</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+</question_categories>

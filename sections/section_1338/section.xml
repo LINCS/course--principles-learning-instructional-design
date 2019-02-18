@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1338">
+  <number>7</number>
+  <name>Principles of Learning for Instructional Design Certificate of Completion</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>5021</sequence>
+  <visible>1</visible>
+  <availablefrom>0</availablefrom>
+  <availableuntil>0</availableuntil>
+  <showavailability>0</showavailability>
+  <groupingid>0</groupingid>
+  <availability id="41">
+    <sourcecmid>$@NULL@$</sourcecmid>
+    <requiredcompletion>$@NULL@$</requiredcompletion>
+    <gradeitemid>1487</gradeitemid>
+    <grademin>75.00000</grademin>
+    <grademax>101.00000</grademax>
+  </availability>
+  <availability id="42">
+    <sourcecmid>5016</sourcecmid>
+    <requiredcompletion>1</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="43">
+    <sourcecmid>5017</sourcecmid>
+    <requiredcompletion>1</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="44">
+    <sourcecmid>5018</sourcecmid>
+    <requiredcompletion>1</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+  <availability id="45">
+    <sourcecmid>5019</sourcecmid>
+    <requiredcompletion>1</requiredcompletion>
+    <gradeitemid>$@NULL@$</gradeitemid>
+    <grademin>$@NULL@$</grademin>
+    <grademax>$@NULL@$</grademax>
+  </availability>
+</section>

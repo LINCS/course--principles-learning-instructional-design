@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="128" moduleid="5014" modulename="url" contextid="15027">
+  <url id="128">
+    <name>Glossary</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The &lt;a target="_blank" title="Link to Glossary" href="http://lincs.ed.gov/professional-development/resource-collections/profile-842"&gt;glossary&lt;/a&gt; provides definitions of acronyms and terms used in this course and in the literature on teacher effectiveness, competencies, and induction. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://lincs.ed.gov/professional-development/resource-collections/profile-842</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1443654288</timemodified>
+  </url>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1225" moduleid="5028" modulename="page" contextid="15041">
+  <page id="1225">
+    <name>Harnessing Technology</name>
+    <intro>&lt;p&gt;Desc&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;After obtaining appropriate permissions (signed video release forms) from adult learners, teachers can use technologies such as smart phone videos, iPads, or other mobile devices to capture lessons on video. To share them with a colleague, upload the video to secure websites such as Dropbox or another FTL site. To discuss them with another adult educator, arrange to meet face-to-face, if possible; if not, consider meeting via iChat, Skype, Google Talk or another free online service to circumvent logistical barriers.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1432154931</timemodified>
+  </page>
+</activity>

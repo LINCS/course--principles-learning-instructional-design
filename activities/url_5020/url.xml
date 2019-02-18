@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="129" moduleid="5020" modulename="url" contextid="15033">
+  <url id="129">
+    <name>Course Evaluation Survey</name>
+    <intro>&lt;p style="text-align: left;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Please provide feedback on this course by clicking on the survey link below.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://s-80c01d-i.sgizmo.com/s3/i-100012018-963926</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:860;s:11:"popupheight";i:650;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1439852160</timemodified>
+  </url>
+</activity>
